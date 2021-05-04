@@ -1,0 +1,13 @@
+footer{
+    height: 51px;
+    width: auto;
+    background-color: #ff8282;
+    text-align: end;
+    padding-top: 18px;
+}
+footer a{
+    font-size: 25px;
+    font-family: 'Pangolin', cursive;
+    margin-right: 90px;
+    color: #ffffff;
+}
